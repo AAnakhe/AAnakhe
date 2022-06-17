@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anakhe
 - 👀 I’m interested in Networking
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a java Developer
+- 💞️ I’m open to a collaboration ...
 - 📫 How to reach me id3velope@gmail.com
 
 <!---
