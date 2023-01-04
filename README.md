@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a Java Developer passionate about building software solutions to problems facing organisations and society, passionate about open source and I'm looking to collaborate on cool and interesting projects.
+
+reach me on [Linkedln](https://www.linkedin.com/in/anakhe-ajayi-32625b228/]
 <!--
 **AAnakhe/AAnakhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
