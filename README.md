@@ -1,6 +1,6 @@
 ### 👋 Hi there! 
 
-I'm a Java Developer with a deep passion for creating innovative software solutions that address the challenges organizations and society face. I'm enthusiastic about open-source development and eager to collaborate on impactful and exciting projects.
+I'm a Java Developer passionate about creating innovative software solutions that address the challenges organizations and society face. I'm enthusiastic about open-source development and eager to collaborate on impactful and exciting projects.
 
 Contact me on [Linkedln](https://www.linkedin.com/in/anakhe-ajayi-32625b228/]
 <!--
